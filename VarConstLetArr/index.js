@@ -31,8 +31,8 @@ console.log(name);//this will show line on name because it is a block level elem
 
 {                               //    -------
                                 //         |
-let name = 'Madhavendra';      //         |-------|Block level element and it is in local variable
-console.log(name);             //         |   
+let name = 'Madhavendra';      //          |-------|Block level element and it is in local variable
+console.log(name);             //          |   
 }                               //    -------
 
 // console.log(names);
