@@ -1,0 +1,16 @@
+States: Pending, fulfiled or rejected
+Promises represent async operations completion or failure.
+It attaches callbacks to a returned object.
+
+
+*******Uses***********
+We will use promise to avoid callback hell [callback pyramid]. 
+Manage Async code confortably.
+Promise suitable for async operations like web requests.
+
+
+******Best Practices*******
+Handle errors with '.catch()' to prevent silent failures.
+Return new promises with 'then()' for nested promises.
+Minimize promise nesting
+Chain promises for redablity, error handling.
