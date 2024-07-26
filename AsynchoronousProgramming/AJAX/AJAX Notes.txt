@@ -1,0 +1,17 @@
+************** AJAX ****************
+    1. AJAX : Asynchronous Javascript and XML.
+    2. Technique for Dynamic, interactive web apps.
+    3. Send and Recieve data from server without full page reload.
+
+
+Website for APIS: Rapid API
+
+
+--------- When To Use ---------
+
+    1. Dynamic loading, eg, infinite scrolling.
+    2. Form Submission without page reload.
+    3. Periodic Updates, eg, live sports score.
+    4. Fetching Product details without refreshing.
+
+    
